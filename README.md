@@ -1,7 +1,13 @@
 # Credit Card Operations Dashboard
 
+
+
 ## Overview
 The Credit Card Operations Dashboard is designed to deliver real-time insights into key performance metrics and trends in credit card operations. By leveraging data from SQL databases, it enhances stakeholder engagement and supports informed decision-making through effective data visualization and analysis. This interactive dashboard allows users to monitor transaction patterns, customer demographics, and overall operational efficiency, facilitating a comprehensive understanding of credit card performance.
+## Credit Card Customer Report
+![Uploading Credit Card Customer Dashboard.png…]()
+## Credit Card Transaction Report
+![Uploading Credit Card Transaction Dashboard.png…]()
 
 ## Project Objective
 To create a comprehensive dashboard that delivers key performance metrics, enhancing stakeholder engagement and supporting data-driven decision-making.
