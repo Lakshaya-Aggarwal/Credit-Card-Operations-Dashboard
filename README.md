@@ -1,7 +1,7 @@
 # Credit Card Operations Dashboard
 
 ## Overview
-This repository contains the **Credit Card Operations Dashboard** developed using **Power BI**. The dashboard provides real-time insights into credit card metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
+The Credit Card Operations Dashboard is designed to deliver real-time insights into key performance metrics and trends in credit card operations. By leveraging data from SQL databases, it enhances stakeholder engagement and supports informed decision-making through effective data visualization and analysis. This interactive dashboard allows users to monitor transaction patterns, customer demographics, and overall operational efficiency, facilitating a comprehensive understanding of credit card performance.
 
 ## Project Objective
 To create a comprehensive dashboard that delivers key performance metrics, enhancing stakeholder engagement and supporting data-driven decision-making.
