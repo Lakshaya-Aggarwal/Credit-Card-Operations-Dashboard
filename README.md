@@ -13,10 +13,10 @@ To create a comprehensive dashboard that delivers key performance metrics, enhan
 
 ## Power BI Dashboard
 ### Credit Card Customer Report
-![Credit Card Customer Dashboard](https://github.com/user-attachments/assets/7f66dc0b-a37e-4aa9-a771-85d7bbab2315)
+![Credit Card Customer Dashboard](./Credit%20Card%20Customer%20Report.png)
 
 ### Credit Card Transaction Report
-![Credit Card Transaction Dashboard](https://github.com/user-attachments/assets/b6705c8b-6cd8-4fd0-88f8-3611e04e4909)
+![Credit Card Transaction Dashboard](./Credit%20Card%20Transaction%20Report.png)
 
 
 ## Getting Started
